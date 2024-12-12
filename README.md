@@ -62,6 +62,6 @@ HTML, CSS, JavaScript, PHP, SQL, Bootstrap, GitHub, Postman
 ---
 
 ## **Creater**  
-**Aman Tripathi**  
+**Abhay Tiwari**  
 - [GitHub](https://github.com/abhaypandit03)  
 - [LinkedIn](https://www.linkedin.com/in/abhay-tiwari-3962a9268/)  
